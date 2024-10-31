@@ -14,6 +14,6 @@ For the past year, I have been working on the geometry properties on dendrite Ju
 
 I am currently interested in 2D spectral theory in relation to the reflected Brownian motion.
 
-## Publication
+## Papers
 * **Hölder Tree Julia Sets Almost Everywhere on the Circle**, In preparation
 * **Julia sets as Conformally Balanced Dendrites**, In preparation
