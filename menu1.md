@@ -12,7 +12,7 @@ Broadly, I'm interested in problems in 2D geometry that involve probabilistic mo
 
 For the past year, I have been working on the geometry properties on dendrite Julia sets. 
 
-I am currently interested in 2D spectral theory in connection with the reflected Brownian motion.
+I am currently interested in 2D spectral theory in relation to the reflected Brownian motion.
 
 ## Publication
 * **Hölder Tree Julia Sets Almost Everywhere on the Circle**, In preparation
