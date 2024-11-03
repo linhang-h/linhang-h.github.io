@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-    <loc>https://linhang-h.github.io/menu2/index.html</loc>
+    <loc>https://linhang-h.github.io/gallery/index.html</loc>
     <lastmod>2024-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -14,13 +14,13 @@
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://linhang-h.github.io/menu1/index.html</loc>
+    <loc>https://linhang-h.github.io/research/index.html</loc>
     <lastmod>2024-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
-    <loc>https://linhang-h.github.io/menu3/index.html</loc>
+    <loc>https://linhang-h.github.io/teaching/index.html</loc>
     <lastmod>2024-11-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
