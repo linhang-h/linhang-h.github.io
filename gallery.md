@@ -1,5 +1,6 @@
 +++
 title = "Gallery"
+rss = "My arts and simulations"
 +++
 
 # Gallery
