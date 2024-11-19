@@ -27,3 +27,14 @@ Add here global latex commands to use throughout your pages.
 -->
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
+
+\newcommand{\gallery}[2]{
+~~~
+<div class="gallery">
+  <a target="_blank" href=#1>
+    <img class="big" src=#1>
+  </a>
+  <div class="desc">#2</div>
+</div>
+~~~
+}

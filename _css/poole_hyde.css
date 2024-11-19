@@ -61,7 +61,7 @@ html {
 
 body {
   color: #515151;
-  background-color: #fff;
+  background-color: #ffffff;
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
 }
@@ -257,11 +257,19 @@ html {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, 0.5);
-  background-color: #202020;
+  border-width: 10px;
+  box-shadow: 0 0 6px 6px #777;
+  background-image: url("/assets/Sim2.png");
+  background-color: #373737;
+  background-repeat: no-repeat;
+  background-size: 120%;
+  background-position: 100% 50%;
 }
 
 @media (min-width: 768px) {
   .sidebar {
+    background-size: 220%;
+    background-position: 30% -50%;
     position: fixed;
     top: 0;
     left: 0;
@@ -336,4 +344,30 @@ a.sidebar-nav-item:focus {
     margin-left: 15rem;
     margin-right: 2rem;
   }
+}
+
+div.gallery {
+  margin: 5px;
+  display: inline-block;
+}
+
+div.gallery img:hover {
+  box-shadow: 0 0 2px 1px #777;
+
+}
+
+div.gallery img {
+  border: 1px solid #937b7b;
+  border-radius: 4px;
+  padding: 5px;
+  width: 200px;
+  height: auto;
+}
+
+div.desc {
+  font-size: 10px;
+  font-weight: bold;
+  padding: 10px;
+  text-align: center;
+  margin-top: -10%;
 }

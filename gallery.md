@@ -8,23 +8,28 @@ I was a fine art student for a time and am now a [hobbyist artist](https://www.i
 
 ## Simulations
 
-~~~
-<div>
-    <img src="/assets/Sim1.png" style="width:100%; display:inline"/>
-    <img src="/assets/Sim2.png"  style="width:40%; display:inline"/>
-    <img src="/assets/Sim4.png"  style="width:40%;  display:inline""/>
-    <img src="/assets/Sim3.png"  style="width:100%;  display:inline""/>
-</div>
-~~~
+\gallery{"/assets/Sim1.png"}{Mating of Continumm Randon Trees}
+
+\gallery{"/assets/Sim3.png"}{Cuting of Gluing Sets}
+
+\gallery{"/assets/Sim2.png"}{Qudratic Lamination}
+
+\gallery{"/assets/Sim4.png"}{Gluing Sets}
+
+---
 
 ## Paintings
-~~~
-<div>
-    <img src="/assets/Art1.png" style="width:80%; display:inline"/>
-    <img src="/assets/Art2.png"  style="width:45%; display:inline"/>
-    <img src="/assets/Art3.png"  style="width:40%;  display:inline""/>
-    <img src="/assets/Art4.png"  style="width:80%;  display:inline""/>
-    <img src="/assets/Art5.png"  style="width:80%;  display:inline""/>
-    <img src="/assets/Art6.png"  style="width:80%;  display:inline""/>
-</div>
-~~~
+
+\gallery{"/assets/Art1.png"}{Lucid}
+
+\gallery{"/assets/Art4.png"}{Sunset}
+
+\gallery{"/assets/Art2.png"}{PNW}
+
+\gallery{"/assets/Art3.png"}{Eternity}
+
+\gallery{"/assets/Art5.png"}{灯火}
+
+\gallery{"/assets/Art6.png"}{岚}
+
+---
