@@ -37,12 +37,6 @@ html {
   float: right;
 }
 
-.franklin-content .container img {
-  width: auto;
-  padding-left: 0;
-  border-radius: 10px;
-}
-
 .franklin-content .footnote {
   position: relative;
   top: -0.5em;
@@ -81,15 +75,15 @@ html {
 
 .franklin-content {
   position: relative;
-  padding-left: 12.5%;
-  padding-right: 12.5%;
+  padding-left: 5%;
+  padding-right: 5%;
   line-height: 1.35em;
 }
 
 /* On wide screens, fix content width to a max value. */
-@media (min-width: 940px) {
+@media (min-width: 1000px) {
   .franklin-content {
-    width: 705px;
+    width: 950px;
     margin-left: auto;
     margin-right: auto;
   }
@@ -98,8 +92,8 @@ html {
 /* On narrow device, reduce margins. */
 @media (max-width: 480px) {
   .franklin-content {
-    padding-left: 6%;
-    padding-right: 6%;
+    padding-left: 3%;
+    padding-right: 3%;
   }
 }
 
@@ -239,12 +233,6 @@ td {
 /* ==================================================================
     IMAGES in CONTENT
 ================================================================== */
-
-.franklin-content img {
-  width: 70%;
-  text-align: center;
-  padding-left: 10%;
-}
 
 .franklin-content .img-small img {
   width: 50%;

@@ -2,8 +2,9 @@
 @def tags = ["syntax", "code"]
 
 # Welcome!
-
-\fig{/assets/Linhang_Huang.jpg}
+@@profile-pic
+    \fig{/assets/Linhang_Huang.jpg}
+@@
 
 ## About Me:
 

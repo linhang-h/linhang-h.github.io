@@ -347,27 +347,39 @@ a.sidebar-nav-item:focus {
 }
 
 div.gallery {
-  margin: 5px;
-  display: inline-block;
-}
-
-div.gallery img:hover {
-  box-shadow: 0 0 2px 1px #777;
-
+  width: 80%;
+  margin: 5%;
+  padding: 0%;
+  display: grid;
+  gap: 2rem;
+  border: 3px solid #937b7b;
+  border-radius: 10px;
+  transition: ease 0.3s;
+  overflow: hidden;
 }
 
 div.gallery img {
-  border: 1px solid #937b7b;
-  border-radius: 4px;
-  padding: 5px;
-  width: 200px;
-  height: auto;
+  object-fit: cover;
+  width: 100%;
+}
+
+div.gallery:hover {
+  transform: translateY(-3%);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 }
 
 div.desc {
-  font-size: 10px;
+  width: 100%;
+  font-size: 100%;
   font-weight: bold;
-  padding: 10px;
   text-align: center;
   margin-top: -10%;
+}
+
+.profile-pic {
+  width: 80%;
+}
+
+.profile-pic img{
+  border-radius: 10px;
 }
