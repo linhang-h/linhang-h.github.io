@@ -7,9 +7,9 @@ tags = ["syntax", "code", "image"]
 +++
 
 ## Teaching
-I am currently the teaching assistant for [MATH 334A](https://math.washington.edu/courses/2024/autumn/math/334/a).
+I am currently the teaching assistant for [MATH 335A](https://math.washington.edu/courses/2024/winter/math/335/a).
 
-My office hour is at 4:00 PM every Tuesday at the Math Study Center.
+My office hour is at 9:30 AM every Friday at the Math Study Center.
 
 ## Blogging
 
