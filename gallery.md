@@ -6,7 +6,7 @@ rss = "My arts and simulations"
 # Gallery
 I was a fine art student for a time and am now a [hobbyist artist](https://www.instagram.com/xeno___art/). I believe in the intrinsic beauty of mathematical reasoning and see a deep link between artistic creativity and mathematical intuition.
 
-## Simulations
+## Math pictures
 
 \gallery{"/assets/Sim1.png"}{Mating of Continumm Randon Trees}
 

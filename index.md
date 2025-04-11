@@ -8,7 +8,7 @@
 
 ## About Me:
 
-I am a third-year PhD student in [mathematics](https://math.washington.edu/) at the [University of Washington](https://www.washington.edu/), interested in probability theory, complex analysis, and the rich connections between the two.
+I am a third-year PhD student in [mathematics](https://math.washington.edu/) at the [University of Washington](https://www.washington.edu/), interested in probability theory, complex analysis, and the rich connections between the two. My advisor is [Stefan Steinerberger](https://faculty.washington.edu/steinerb/).
 
 I currently serve as the Graduate Student Social Coordinator for the UW Mathematics department.
 
